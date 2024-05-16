@@ -1,0 +1,21 @@
+.timeline-view-container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+
+.main-heading {
+  font-size: 14px;
+  color: #171f46;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.main-heading span {
+  font-size: 20px;
+  margin-block: 20px;
+}
